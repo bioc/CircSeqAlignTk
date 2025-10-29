@@ -1,7 +1,7 @@
 Package: CircSeqAlignTk
 Type: Package
 Title: End-to-End Analysis of Small RNA-Seq Data from Viroids
-Version: 1.11.2
+Version: 1.12.0
 Authors@R: 
     c(person("Jianqiang", "Sun",
                 email = "sun@bitdessin.dev",
